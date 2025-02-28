@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <color name="blur_dark_blue">#1A2A4C</color> <!-- A dark blue with transparency effect -->
+
+        <!-- Cyan -->
+        <color name="cyan">#00FFFF</color> <!-- Cyan color -->
+
+        <!-- Dark Gray -->
+        <color name="dark_gray">#333333</color> <!-- A very dark gray -->
+
+        <!-- Dark Gray (alternative) -->
+        <color name="dark_grau">#2F2F2F</color> <!-- Another variation of dark gray -->
+
+</resources>
